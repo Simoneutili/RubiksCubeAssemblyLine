@@ -44,23 +44,14 @@ Below is an image of the CAD model representing the layout and components of the
 
 ### Automatic Line Visualization Video
 
-Watch the YouTube video demonstrating the operation of the automatic assembly line:
+Watch the YouTube video demonstrating the operation of the automatic assembly line.
 
-[![Automatic Assembly Line Video](https://img.youtube.com/vi/YourVideoLinkHere/0.jpg)](https://youtu.be/YourVideoLinkHere)
-*Replace `YourVideoLinkHere` with the actual YouTube video ID or URL.*
+*The analyzed section of the assembly line starts at 00:43.*
 
----
+[![Watch the video (analysis begins at 00:43)](https://img.youtube.com/vi/QcApQ0M6aBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcApQ0M6aBk&t=43s "Watch the video (analysis begins at 00:43)")
 
-## Project Phases
 
-1. **Phase 0:** Identification of an automated section featuring at least three pneumatic actuators.
-2. **Phase 1:** Creation of a schematic overview using images, videos, CAD diagrams, or animations for a clear explanation of the system.
-3. **Phase 2:** Development of the Grafcet diagram and movement-phase analysis, including signal and sensor evaluations.
-4. **Phase 3:** Design and documentation of the pneumatic circuit, with explanations supported by drawings or animations.
-   - **Phase 3bis (Optional):** Simulation of the pneumatic circuit.
-5. **Phase 4 (Optional):** Dimensioning of the pneumatic components, including air consumption calculations.
 
----
 
 ## Additional Information
 
