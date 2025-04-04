@@ -39,7 +39,7 @@ The assembly line is responsible for:
 
 Below is an image of the CAD model representing the layout and components of the automatic assembly line:
 
-![CAD Model](./images/cad_model.png)
+![CAD Model](./images/3DModelAssemblyLine.png)
 *Replace this placeholder with your actual CAD model image.*
 
 ### Automatic Line Visualization Video
