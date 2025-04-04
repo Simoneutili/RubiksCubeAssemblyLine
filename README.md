@@ -46,7 +46,8 @@ Below is an image of the CAD model representing the layout and components of the
 
 Watch the YouTube video demonstrating the operation of the automatic assembly line:
 
-[![Watch the video](https://img.youtube.com/vi/QcApQ0M6aBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcApQ0M6aBk&t=1s "Watch the video")
+[![Watch the video (analysis begins at 00:43)](https://img.youtube.com/vi/QcApQ0M6aBk/maxresdefault.jpg)](https://www.youtube.com/watch?v=QcApQ0M6aBk&t=43s "Watch the video (analysis begins at 00:43)")
+
 
 
 
