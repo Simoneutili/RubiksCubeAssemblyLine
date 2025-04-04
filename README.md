@@ -57,8 +57,3 @@ Watch the YouTube video demonstrating the operation of the automatic assembly li
 The automatic assembly line was designed and produced by **LIYUAN Automation Equipment Technology Co. Ltd.**  
 Visit their website for more details: [www.0769liyuan.com.cn](http://www.0769liyuan.com.cn)
 
-## Author
-
-**Simone Utili**  
-*Engineering Project – Automation and Control*  
-*Academic Year 2023-2024*
