@@ -37,10 +37,9 @@ The assembly line is responsible for:
 
 ### CAD Model
 
-Below is an image of the CAD model representing the layout and components of the automatic assembly line:
+Below is a CAD model image illustrating the layout and components of the automatic assembly line, with each actuator clearly labeled by a corresponding letter.
 
 ![CAD Model](./images/3DModelAssemblyLine.png)
-*Replace this placeholder with your actual CAD model image.*
 
 ### Automatic Line Visualization Video
 
