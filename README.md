@@ -1,4 +1,4 @@
-# Automatic Assembly Line for Rubik's Cube Core Assembly
+# Automated Machine for Rubik's Cube Core Assembly
 
 
 
