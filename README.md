@@ -1,10 +1,6 @@
 # Automatic Assembly Line for Rubik's Cube Core Assembly
 
-**A Simulated Control System for Automated Rubik's Cube Assembly**
 
----
-
-## Overview
 
 This project represents a comprehensive automation solution designed for the assembly of the core structure of a Rubik's Cube (Speedcube). The system integrates pneumatic actuation, mechanical handling, and electrical control to achieve a continuous production cycle. Developed as part of an engineering project, the design is fully simulated using advanced CAD and pneumatic simulation tools.
 
